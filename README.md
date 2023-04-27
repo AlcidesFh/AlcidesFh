@@ -1,3 +1,3 @@
-<img src="https://github.com/AlcidesFh/AlcidesFh/blob/92c39e73a1fdc27a6654b5a8a09726c09d8783a1/static/Captura%20de%20tela%202023-04-10%20165217.png" alt="">
+<img src="https://github.com/AlcidesFh/AlcidesFh/blob/9d9cb1113450cba35cca354d012d80242aecbf0c/static/earth-night-1918.gif" alt="">
 
 <h2>HELLO WORLD!</h2>
